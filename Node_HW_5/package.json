@@ -1,0 +1,33 @@
+{
+  "name": "node_hw_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_db.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "4.17.1",
+    "axios": "0.21.1",
+    "save": "^2.4.0",
+    "mongoose": "5.10.15",
+    "passport": "0.4.1",
+    "passport-local": "1.0.0",
+    "passport-http-bearer": "1.0.1",
+    "request": "2.88.2",
+    "crypto": "1.0.1",
+    "jsonwebtoken": "8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iea140777/Node-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iea140777/Node-course/issues"
+  },
+  "homepage": "https://github.com/iea140777/Node-course#readme"
+}
